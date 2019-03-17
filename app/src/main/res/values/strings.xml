@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragment_lec6</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name"> What is your name?</string>
+    <string name="Mail"> What is your email address?</string>
+    <string name="Birth"> When is your birthday?</string>
+    <string name="Here"> Write it here</string>
+    <string name="Submit"> Submit</string>
+    <string name="title_activity_data">DataActivity</string>
+    <string name="name">Name:</string>
+    <string name="Email"> Mail:</string>
+    <string name="birth">Birthday:</string>
+</resources>
